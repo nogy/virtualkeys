@@ -1,0 +1,6 @@
+compile
+depcomp
+install-sh
+missing
+*~
+src/.deps
